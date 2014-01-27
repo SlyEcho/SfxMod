@@ -1,0 +1,13 @@
+[Oo]bj/
+[Bb]in/
+*.suo
+*.csproj.user
+/TestResults
+TestResult.xml
+Packager/Test.exe
+*.VisualState.xml
+*.vspscc
+*.vssscc
+*~
+*.swp
+*.cache

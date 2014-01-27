@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SFX", "Sfx\SFX.csproj", "{D29DF04B-FA0A-4E87-A20B-BF78AE4D73F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Packager", "Packager\Packager.csproj", "{44222A79-7EB8-454C-8AA0-91FDADA37E80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D29DF04B-FA0A-4E87-A20B-BF78AE4D73F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D29DF04B-FA0A-4E87-A20B-BF78AE4D73F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D29DF04B-FA0A-4E87-A20B-BF78AE4D73F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D29DF04B-FA0A-4E87-A20B-BF78AE4D73F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44222A79-7EB8-454C-8AA0-91FDADA37E80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44222A79-7EB8-454C-8AA0-91FDADA37E80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44222A79-7EB8-454C-8AA0-91FDADA37E80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44222A79-7EB8-454C-8AA0-91FDADA37E80}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
